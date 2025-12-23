@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-[Launch CapTable Copilot](https://your-streamlit-deployment-link)
+[Launch CapTable Copilot](https://captable-copilot.streamlit.app)
 
 ---
 
